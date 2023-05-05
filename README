@@ -1,0 +1,12 @@
+README:
+
+To begin the analysis, please perform the following steps:
+
+Load the Python file "Hackathon_Preprocessing.ipynb".
+Modify the file path to include the data files the data collection team provided.
+Import any required libraries and install any missing libraries.
+Execute the code sequentially in the following order:
+i. Data preprocessing using "Hackathon_Greece_Startup_Preprocessing.ipynb".
+ii. Equity analysis using the "Hackathon_Equity_analysis.ipynb" file.
+iii. Regional analysis (Hackathon_Regional_analysis.ipynb).
+iv. Twitter analysis (Hackathon_Twitter_analysis.ipynb). 
